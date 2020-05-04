@@ -1,0 +1,5 @@
+C:\Users\André\source\repos\ProjRelacionamento\Model\bin\Debug\Model.dll
+C:\Users\André\source\repos\ProjRelacionamento\Model\bin\Debug\Model.pdb
+C:\Users\André\source\repos\ProjRelacionamento\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\ProjRelacionamento\Model\obj\Debug\Model.dll
+C:\Users\André\source\repos\ProjRelacionamento\Model\obj\Debug\Model.pdb
